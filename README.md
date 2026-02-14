@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Meu nome é Bruno e tenho 17 anos
+
 <!--
 **Bruno-Avi/Bruno-Avi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
