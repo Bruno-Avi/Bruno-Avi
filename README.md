@@ -1,8 +1,8 @@
-## Hi there 👋
+## Olá
 
 Meu nome é Bruno e tenho 17 anos e sempre gostei de tecnologia desde criança.
 
-## My skils
+## Minhas Habilidades
 
 Inglês de nível 4
 
