@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-Meu nome é Bruno e tenho 17 anos
+Meu nome é Bruno e tenho 17 anos e sempre gostei de tecnologia desde criança.
+
+## My skils
+
+Inglês de nível 4
+-Word - Basic
+-Excel - Basic
 
 <!--
 **Bruno-Avi/Bruno-Avi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
